@@ -1,0 +1,1 @@
+track type=bigWig name=p65_LPS11 smoothingWindow=4 color=123,100,50 autoScale=on viewLimits=1:200 visibility=full windowingFunction=maximum bigDataUrl=https://hyejin2003.s3.ap-northeast-2.amazonaws.com/GSM3301803_LPS11_p65.bw
